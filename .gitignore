@@ -3,5 +3,11 @@
 
 # But these
 !.gitignore
+
+# Komorebi
 !komorebi*
-!yasb*
+
+# yasb
+!yasb/config.yaml
+!yasb/theme.json
+!yasb/styles.css

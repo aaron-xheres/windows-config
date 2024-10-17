@@ -9,7 +9,6 @@
   "border_width": 3,
   "border_offset": -1,
   "border_style": "Square",
-  "focus_follows_mouse": "Windows",
   "mouse_follows_focus": false,
   "theme": {
     "palette": "Base16",

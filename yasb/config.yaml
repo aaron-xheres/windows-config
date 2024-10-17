@@ -1,6 +1,3 @@
-watch_stylesheet: true
-watch_config: true
-
 komorebi:
   start_command: "komorebic start --whkd"
   stop_command: "komorebic stop --whkd"
@@ -31,22 +28,21 @@ bars:
       bottom: 0
       right: 12
     widgets:
-      left:
-        [
-          "komorebi_workspaces"
-        ] 
+      left: [
+        "komorebi_workspaces"
+      ] 
       center: [
-         "active_window"
-        ]
-      right:
-        [
-          "cpu",
-          "memory",
-          "wifi",
-          "volume",
-          "clock",
-          "power_menu"
-        ]
+        "media"
+      ]
+      right: [
+        "cpu",
+        "memory",
+        "wifi",
+        "volume",
+        "battery",
+        "clock",
+        "power_menu"
+      ]
 widgets:
   media:
     type: "yasb.media.MediaWidget"
@@ -57,7 +53,7 @@ widgets:
         label: 20
         label_alt: 30
       show_thumbnail: false
-      controls_only: true
+      controls_only: false
       controls_left: true
       hide_empty: true
       thumbnail_alpha: 80
@@ -89,7 +85,7 @@ widgets:
   clock:
     type: "yasb.clock.ClockWidget"
     options:
-      label: "{%a %d, %b %H:%M}"
+      label: "{%a, %d/%m/%Y    %H:%M}"
       label_alt: "{%A %d %B %Y, %H:%M}"
       #locale: 'en_EN' # Langugae for date, you can set your own, example fr_FR
       timezones: [] #Looking up time zone info from registry
@@ -188,7 +184,6 @@ widgets:
         on_left: "toggle_label"
         on_middle: "exec cmd /c ncpa.cpl" # open network settings
         on_right: "exec cmd /c start https://ipinfo.io/{data[ip]} " # open ipinfo in browser
-
   weather:
     type: "yasb.weather.WeatherWidget"
     options:

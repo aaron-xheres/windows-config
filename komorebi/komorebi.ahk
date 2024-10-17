@@ -7,4 +7,5 @@
 userhome := EnvGet("USERPROFILE")
 yasbdir := userhome "\yasb\src\"
 yasb := yasbdir "main.py"
-Run A_ComSpec ' /c python "' yasb '"', yasbdir, "Hide"
+if (!ProcessExist("python.exe"))
+  Run A_ComSpec ' /c python "' yasb '"', yasbdir, "Hide"

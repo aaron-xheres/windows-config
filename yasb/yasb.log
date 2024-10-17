@@ -1,0 +1,239 @@
+2024-10-17 23:27:06 INFO log.py:21: Yasb
+2024-10-17 23:27:06 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:27:07 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:27:07 INFO event_listener.py:52: Created named pipe yasb-452f9447-8c9c-11ef-ba96-00155d5de63f
+2024-10-17 23:27:07 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-452f9447-8c9c-11ef-ba96-00155d5de63f
+2024-10-17 23:27:07 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:27:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:27:07 DEBUG _windows.py:192: Thread started
+2024-10-17 23:27:07 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-452f9447-8c9c-11ef-ba96-00155d5de63f
+2024-10-17 23:37:41 INFO log.py:21: Yasb
+2024-10-17 23:37:42 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:37:42 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:37:43 INFO event_listener.py:52: Created named pipe yasb-c013fa4f-8c9d-11ef-b330-00155d5de63f
+2024-10-17 23:37:43 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c013fa4f-8c9d-11ef-b330-00155d5de63f
+2024-10-17 23:37:43 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:37:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:37:43 DEBUG _windows.py:192: Thread started
+2024-10-17 23:37:43 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c013fa4f-8c9d-11ef-b330-00155d5de63f
+2024-10-17 23:38:20 ERROR bar_manager.py:53: Error loading config: document is missing
+2024-10-17 23:38:20 INFO log.py:21: Yasb
+2024-10-17 23:38:21 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:38:21 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:38:21 INFO event_listener.py:52: Created named pipe yasb-d71c4036-8c9d-11ef-b463-00155d5de63f
+2024-10-17 23:38:21 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d71c4036-8c9d-11ef-b463-00155d5de63f
+2024-10-17 23:38:22 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:38:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d71c4036-8c9d-11ef-b463-00155d5de63f
+2024-10-17 23:38:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:38:22 DEBUG _windows.py:192: Thread started
+2024-10-17 23:38:40 INFO log.py:21: Yasb
+2024-10-17 23:38:41 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:38:41 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:38:41 INFO event_listener.py:52: Created named pipe yasb-e311e368-8c9d-11ef-8736-00155d5de63f
+2024-10-17 23:38:41 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e311e368-8c9d-11ef-8736-00155d5de63f
+2024-10-17 23:38:42 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e311e368-8c9d-11ef-8736-00155d5de63f
+2024-10-17 23:38:42 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:38:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:38:42 DEBUG _windows.py:192: Thread started
+2024-10-17 23:40:21 INFO log.py:21: Yasb
+2024-10-17 23:40:21 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:40:21 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:40:22 INFO event_listener.py:52: Created named pipe yasb-1f01c519-8c9e-11ef-89dc-00155d5de63f
+2024-10-17 23:40:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1f01c519-8c9e-11ef-89dc-00155d5de63f
+2024-10-17 23:40:22 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:40:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:40:22 DEBUG _windows.py:192: Thread started
+2024-10-17 23:40:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1f01c519-8c9e-11ef-89dc-00155d5de63f
+2024-10-17 23:40:34 INFO log.py:21: Yasb
+2024-10-17 23:40:35 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:40:35 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:40:36 INFO event_listener.py:52: Created named pipe yasb-2725ccd1-8c9e-11ef-becf-00155d5de63f
+2024-10-17 23:40:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2725ccd1-8c9e-11ef-becf-00155d5de63f
+2024-10-17 23:40:36 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:40:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:40:36 DEBUG _windows.py:192: Thread started
+2024-10-17 23:40:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-2725ccd1-8c9e-11ef-becf-00155d5de63f
+2024-10-17 23:40:57 INFO log.py:21: Yasb
+2024-10-17 23:40:58 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:40:58 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:40:58 INFO event_listener.py:52: Created named pipe yasb-34a825f6-8c9e-11ef-881a-00155d5de63f
+2024-10-17 23:40:58 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-34a825f6-8c9e-11ef-881a-00155d5de63f
+2024-10-17 23:40:58 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:40:58 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:40:58 DEBUG _windows.py:192: Thread started
+2024-10-17 23:40:59 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-34a825f6-8c9e-11ef-881a-00155d5de63f
+2024-10-17 23:41:55 INFO log.py:21: Yasb
+2024-10-17 23:41:55 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:41:56 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:41:56 INFO event_listener.py:52: Created named pipe yasb-571ea23c-8c9e-11ef-92e1-00155d5de63f
+2024-10-17 23:41:56 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-571ea23c-8c9e-11ef-92e1-00155d5de63f
+2024-10-17 23:41:56 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:41:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:41:56 DEBUG _windows.py:192: Thread started
+2024-10-17 23:41:56 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-571ea23c-8c9e-11ef-92e1-00155d5de63f
+2024-10-17 23:42:21 INFO log.py:21: Yasb
+2024-10-17 23:42:22 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:42:22 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:42:23 INFO event_listener.py:52: Created named pipe yasb-66f25d13-8c9e-11ef-bedf-00155d5de63f
+2024-10-17 23:42:23 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-66f25d13-8c9e-11ef-bedf-00155d5de63f
+2024-10-17 23:42:23 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:42:23 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:42:23 DEBUG _windows.py:192: Thread started
+2024-10-17 23:42:23 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-66f25d13-8c9e-11ef-bedf-00155d5de63f
+2024-10-17 23:42:32 INFO log.py:21: Yasb
+2024-10-17 23:42:32 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:42:32 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:42:33 INFO event_listener.py:52: Created named pipe yasb-6d15bfac-8c9e-11ef-8617-00155d5de63f
+2024-10-17 23:42:33 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6d15bfac-8c9e-11ef-8617-00155d5de63f
+2024-10-17 23:42:33 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:42:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:42:33 DEBUG _windows.py:192: Thread started
+2024-10-17 23:42:33 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-6d15bfac-8c9e-11ef-8617-00155d5de63f
+2024-10-17 23:43:36 INFO log.py:21: Yasb
+2024-10-17 23:43:37 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:43:37 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:43:37 INFO event_listener.py:52: Created named pipe yasb-93757365-8c9e-11ef-82e3-00155d5de63f
+2024-10-17 23:43:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-93757365-8c9e-11ef-82e3-00155d5de63f
+2024-10-17 23:43:38 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:43:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:43:38 DEBUG _windows.py:192: Thread started
+2024-10-17 23:43:38 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-93757365-8c9e-11ef-82e3-00155d5de63f
+2024-10-17 23:43:47 INFO log.py:21: Yasb
+2024-10-17 23:43:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:43:48 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:43:49 INFO event_listener.py:52: Created named pipe yasb-9a3c519f-8c9e-11ef-9e97-00155d5de63f
+2024-10-17 23:43:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9a3c519f-8c9e-11ef-9e97-00155d5de63f
+2024-10-17 23:43:49 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:43:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:43:49 DEBUG _windows.py:192: Thread started
+2024-10-17 23:43:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-9a3c519f-8c9e-11ef-9e97-00155d5de63f
+2024-10-17 23:45:04 ERROR bar_manager.py:53: Error loading config: document is missing
+2024-10-17 23:47:55 ERROR main.py:63: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\XhERES\yasb\src\core\widgets\base.py", line 91, in _timer_callback
+    def _timer_callback(self):
+    
+KeyboardInterrupt
+2024-10-17 23:50:42 INFO log.py:21: Yasb
+2024-10-17 23:50:42 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-17 23:50:42 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-17 23:50:43 INFO event_listener.py:52: Created named pipe yasb-90ebf83d-8c9f-11ef-9ae7-00155d5de63f
+2024-10-17 23:50:43 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-90ebf83d-8c9f-11ef-9ae7-00155d5de63f
+2024-10-17 23:50:43 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-90ebf83d-8c9f-11ef-9ae7-00155d5de63f
+2024-10-17 23:50:43 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-17 23:50:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-17 23:50:43 DEBUG _windows.py:192: Thread started
+2024-10-17 23:56:00 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-17 23:56:00 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-17 23:56:02 ERROR main.py:63: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\XhERES\yasb\src\core\widgets\base.py", line 91, in _timer_callback
+    def _timer_callback(self):
+    
+KeyboardInterrupt
+2024-10-18 00:14:37 INFO log.py:21: Yasb
+2024-10-18 00:14:38 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-18 00:14:38 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-18 00:14:38 INFO event_listener.py:52: Created named pipe yasb-e8b8d73a-8ca2-11ef-90c7-00155d5de63f
+2024-10-18 00:14:38 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e8b8d73a-8ca2-11ef-90c7-00155d5de63f
+2024-10-18 00:14:39 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-18 00:14:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-18 00:14:39 DEBUG _windows.py:192: Thread started
+2024-10-18 00:14:39 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e8b8d73a-8ca2-11ef-90c7-00155d5de63f
+2024-10-18 00:14:57 INFO log.py:21: Yasb
+2024-10-18 00:14:58 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-18 00:14:58 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-18 00:14:58 INFO event_listener.py:52: Created named pipe yasb-f49783dc-8ca2-11ef-9924-00155d5de63f
+2024-10-18 00:14:58 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f49783dc-8ca2-11ef-9924-00155d5de63f
+2024-10-18 00:14:58 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f49783dc-8ca2-11ef-9924-00155d5de63f
+2024-10-18 00:14:58 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-18 00:14:58 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-18 00:14:58 DEBUG _windows.py:192: Thread started
+2024-10-18 00:15:37 INFO log.py:21: Yasb
+2024-10-18 00:15:38 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-18 00:15:38 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-18 00:15:38 INFO event_listener.py:52: Created named pipe yasb-0c504826-8ca3-11ef-b703-00155d5de63f
+2024-10-18 00:15:38 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-0c504826-8ca3-11ef-b703-00155d5de63f
+2024-10-18 00:15:38 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-18 00:15:38 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-0c504826-8ca3-11ef-b703-00155d5de63f
+2024-10-18 00:15:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-18 00:15:38 DEBUG _windows.py:192: Thread started
+2024-10-18 00:18:21 INFO log.py:21: Yasb
+2024-10-18 00:18:21 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-18 00:18:21 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-18 00:18:22 INFO event_listener.py:52: Created named pipe yasb-6de39cbd-8ca3-11ef-b29b-00155d5de63f
+2024-10-18 00:18:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6de39cbd-8ca3-11ef-b29b-00155d5de63f
+2024-10-18 00:18:22 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-18 00:18:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-6de39cbd-8ca3-11ef-b29b-00155d5de63f
+2024-10-18 00:18:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-18 00:18:22 DEBUG _windows.py:192: Thread started
+2024-10-18 00:18:23 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-18 00:18:23 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_disconnect of WorkspaceWidget object at 0x00000182FFA649B0>. Removing link to KomorebiEvent.KomorebiDisconnect.
+2024-10-18 00:18:23 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-18 00:18:24 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000182FFA644B0>. Removing link to WinEvent.EventObjectNameChange.
+2024-10-18 00:18:28 INFO event_listener.py:52: Created named pipe yasb-6de39cbd-8ca3-11ef-b29b-00155d5de63f
+2024-10-18 00:18:28 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6de39cbd-8ca3-11ef-b29b-00155d5de63f
+2024-10-18 00:18:28 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-18 00:18:52 INFO log.py:21: Yasb
+2024-10-18 00:18:52 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-18 00:18:52 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-18 00:18:53 INFO event_listener.py:52: Created named pipe yasb-8065236d-8ca3-11ef-ba95-00155d5de63f
+2024-10-18 00:18:53 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8065236d-8ca3-11ef-ba95-00155d5de63f
+2024-10-18 00:18:53 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-18 00:18:53 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-8065236d-8ca3-11ef-ba95-00155d5de63f
+2024-10-18 00:18:53 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-18 00:18:53 DEBUG _windows.py:192: Thread started
+2024-10-18 00:18:56 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-18 00:18:56 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_disconnect of WorkspaceWidget object at 0x000002B476ED49B0>. Removing link to KomorebiEvent.KomorebiDisconnect.
+2024-10-18 00:18:56 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-18 00:19:01 INFO event_listener.py:52: Created named pipe yasb-8065236d-8ca3-11ef-ba95-00155d5de63f
+2024-10-18 00:19:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8065236d-8ca3-11ef-ba95-00155d5de63f
+2024-10-18 00:19:01 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-18 00:20:01 INFO log.py:21: Yasb
+2024-10-18 00:20:02 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-18 00:20:02 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-18 00:20:02 INFO event_listener.py:52: Created named pipe yasb-a99da575-8ca3-11ef-bdcf-00155d5de63f
+2024-10-18 00:20:02 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a99da575-8ca3-11ef-bdcf-00155d5de63f
+2024-10-18 00:20:02 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-18 00:20:02 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a99da575-8ca3-11ef-bdcf-00155d5de63f
+2024-10-18 00:20:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-18 00:20:02 DEBUG _windows.py:192: Thread started
+2024-10-18 00:20:06 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-18 00:20:06 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-18 00:20:12 INFO event_listener.py:52: Created named pipe yasb-a99da575-8ca3-11ef-bdcf-00155d5de63f
+2024-10-18 00:20:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a99da575-8ca3-11ef-bdcf-00155d5de63f
+2024-10-18 00:20:12 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-18 00:21:10 INFO log.py:21: Yasb
+2024-10-18 00:21:11 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-18 00:21:11 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-18 00:21:11 INFO event_listener.py:52: Created named pipe yasb-d2de590c-8ca3-11ef-8ac8-00155d5de63f
+2024-10-18 00:21:11 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d2de590c-8ca3-11ef-8ac8-00155d5de63f
+2024-10-18 00:21:11 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-18 00:21:11 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d2de590c-8ca3-11ef-8ac8-00155d5de63f
+2024-10-18 00:21:11 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-18 00:21:11 DEBUG _windows.py:192: Thread started
+2024-10-18 00:21:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a99da575-8ca3-11ef-bdcf-00155d5de63f
+2024-10-18 00:21:12 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x00000288EE9789B0>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-10-18 00:21:12 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000288EE9784B0>. Removing link to WinEvent.EventObjectNameChange.
+2024-10-18 00:21:12 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-18 00:21:12 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_disconnect of WorkspaceWidget object at 0x00000288EE9789B0>. Removing link to KomorebiEvent.KomorebiDisconnect.
+2024-10-18 00:21:12 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-18 00:21:12 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-18 00:21:12 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-18 00:21:17 INFO event_listener.py:52: Created named pipe yasb-d2de590c-8ca3-11ef-8ac8-00155d5de63f
+2024-10-18 00:21:17 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d2de590c-8ca3-11ef-8ac8-00155d5de63f
+2024-10-18 00:21:17 INFO event_listener.py:52: Created named pipe yasb-a99da575-8ca3-11ef-bdcf-00155d5de63f
+2024-10-18 00:21:17 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a99da575-8ca3-11ef-bdcf-00155d5de63f
+2024-10-18 00:21:17 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-18 00:21:17 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-18 00:21:27 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x00000288EE9784B0>. Removing link to WinEvent.EventSystemForeground.
+2024-10-18 00:21:27 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000288EE9784B0>. Removing link to WinEvent.EventObjectStateChange.
+2024-10-18 00:22:06 INFO log.py:21: Yasb
+2024-10-18 00:22:07 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-18 00:22:07 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-18 00:22:07 INFO event_listener.py:52: Created named pipe yasb-f44b2959-8ca3-11ef-bd3e-00155d5de63f
+2024-10-18 00:22:07 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f44b2959-8ca3-11ef-bd3e-00155d5de63f
+2024-10-18 00:22:07 INFO watcher.py:39: Created file watcher for path C:\Users\XhERES\.config\yasb
+2024-10-18 00:22:07 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f44b2959-8ca3-11ef-bd3e-00155d5de63f
+2024-10-18 00:22:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-18 00:22:07 DEBUG _windows.py:192: Thread started

@@ -57,7 +57,7 @@ widgets:
       show_thumbnail: false
       controls_only: true
       controls_left: true
-      hide_empty: true
+      hide_empty: false
       thumbnail_alpha: 80
       thumbnail_padding: 8
       thumbnail_corner_radius: 16 # Set to 0 for square corners

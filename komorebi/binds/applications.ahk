@@ -2,8 +2,7 @@
 ; ---------------------
 
 ; Windows Terminal (no reason to use others) 
-terminal := RegRead("HKCU\Software\Microsoft\Windows\CurrentVersion\App Paths\wt.exe", "Path", "")
-#q::Run terminal . "\WindowsTerminal.exe" 
+#q::Run "wt" 
 
 ; Default Browser (set based on default behavior when opening https)
 defaultHTTPS := RegRead("HKCU\Software\Microsoft\Windows\Shell\Associations\UrlAssociations\https\UserChoice", "ProgId", "")

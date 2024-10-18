@@ -29,10 +29,12 @@ bars:
       right: 12
     widgets:
       left: [
-        "komorebi_workspaces"
+        "komorebi_workspaces",
+        "seperator",
+        "media"
       ] 
       center: [
-        "media"
+        "active_window"
       ]
       right: [
         "cpu",
@@ -53,7 +55,7 @@ widgets:
         label: 20
         label_alt: 30
       show_thumbnail: false
-      controls_only: false
+      controls_only: true
       controls_left: true
       hide_empty: true
       thumbnail_alpha: 80
@@ -306,3 +308,9 @@ widgets:
       class_name: "system-widget"
       callbacks:
         on_left: "exec start_menu"
+  seperator:
+    type: "yasb.custom.CustomWidget"
+    options:
+      label: " | "
+      label_alt: "|"
+      class_name: ""
